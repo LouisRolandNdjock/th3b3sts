@@ -2,7 +2,7 @@
 <body>
 <form action="action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1>Now Register</h1>
     <p>Please provide information to create an account.</p>
     <hr>
 
