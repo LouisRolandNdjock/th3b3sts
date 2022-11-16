@@ -2,7 +2,7 @@
 <body>
 <form action="action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1>Register for DevOps Study</h1>
     <p>Please fill the form bellow.</p>
     <hr>
 
