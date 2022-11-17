@@ -23,7 +23,7 @@
     <br>
 
 
-    <label for="psw-repeat"><b>Confirm Password</b></label>
+    <label for="psw-repeat"><b>Reenter Password</b></label>
     <input type="password" placeholder="Confirm Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
